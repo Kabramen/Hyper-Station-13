@@ -1,0 +1,5 @@
+Changes
+
+Gameplay Changes
++ Shooting guns without combat mode on will now give the message (#User hip fires #gun) to help premote combat mode for more accurate shooting.
+

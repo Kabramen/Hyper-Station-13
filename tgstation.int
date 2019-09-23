@@ -1,0 +1,20 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 2.000
+LAST_COMPILE_TIME: 1568713921
+PACKAGE_RSC_NAME: C:\Users\Quote\Desktop\Space Station 13 Server\Citadel-Station-13-master\tgstation_rsc.zip
+DIR: _maps _maps\map_files _maps\map_files\BoxStation _maps\map_files\MetaStation _maps\map_files\Mining _maps\map_files\OmegaStation _maps\map_files\PubbyStation code code\_onclick\hud code\controllers\configuration code\controllers\configuration\entries icons icons\turf modular_citadel modular_citadel\icons modular_citadel\icons\mob modular_citadel\icons\mob\citadel modular_citadel\icons\mob\citadel_refs modular_citadel\icons\obj modular_citadel\icons\obj\food 
+AUTO_FILE_DIR: OFF
+PACKAGE_DMB_INFO: 
+MAP_ICON_TYPE: 0
+PACKAGE_DME_NAME: C:\Users\Quote\Desktop\Space Station 13 Server\Citadel-Station-13-master\tgstation_src.zip
+LAST_COMPILE_VERSION: 512.1479
+PACKAGE_DME_START: 
+PACKAGE_TYPE: 0
+WINDOW: modular_citadel\icons\mob\citadel\head.dmi;modular_citadel\icons\mob\citadel_refs\furry_parts_greyscale.dmi;modular_citadel\icons\obj\FermiChem.dmi;modular_citadel\icons\obj\food\food.dmi;icons\turf\floors.dmi;icons\turf\walls.dmi
+PACKAGE_DME_INFO: 
+FILE: modular_citadel\icons\mob\citadel\head.dmi
+PACKAGE_DME_DEMO: 
+PACKAGE_DMB_NAME: C:\Users\Quote\Desktop\Space Station 13 Server\Citadel-Station-13-master\tgstation.zip
+*/
+// END_INTERNALS
